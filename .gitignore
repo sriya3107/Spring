@@ -1,0 +1,17 @@
+
+
+*.properties
+*.xml
+*.kotlin_module
+*.class
+*.cmd
+mvnw
+MavenWrapperDownloader.java
+*.jar
+DemoApplicationTests.java
+
+
+
+.idea/
+HELP.md
+
